@@ -1,4 +1,4 @@
-# Letter-Decoder
+# Letter Decoder
 A MATLAB program related to letter decryption and inspired by Zodiac Killer’s Cipher.
 
 ## Background
